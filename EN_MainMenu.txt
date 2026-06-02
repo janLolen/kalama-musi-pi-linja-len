@@ -1,15 +1,15 @@
 <entries>
 <entry name="PROFILE_INCOMPATIBLE">Version Incompatible</entry>
-<entry name="UI_MENU_STYLE_HORNET">Silksong</entry>
+<entry name="UI_MENU_STYLE_HORNET">kalama musi pi linja len</entry>
 <entry name="LANG_CURRENT">toki pona</entry>
-<entry name="UI_MENU_STYLE_ABYSS">Abyss</entry>
-<entry name="SCREEN_AUDIO">Audio</entry>
-<entry name="PAUSE_CONTINUE">Continue</entry>
-<entry name="GAME_CAMERA_SHAKE">Camera Shake</entry>
+<entry name="UI_MENU_STYLE_ABYSS">pimeja anpa</entry>
+<entry name="SCREEN_AUDIO">kalama</entry>
+<entry name="PAUSE_CONTINUE">o awen</entry>
+<entry name="GAME_CAMERA_SHAKE">sitelen li tawa wawa kepeken tenpo lili</entry>
 <entry name="TROPHIES_BASE_SET_TEXT">Trophies for Hollow Knight: Silksong</entry>
-<entry name="BUTTON_ATTACK">Attack</entry>
-<entry name="VIDEO_DISPLAY">Monitor:</entry>
-<entry name="OPTIONS_KEYBOARD">Keyboard</entry>
+<entry name="BUTTON_ATTACK">o utala</entry>
+<entry name="VIDEO_DISPLAY">ilo lukin:</entry>
+<entry name="OPTIONS_KEYBOARD">ilo nena pi sitelen toki</entry>
 <entry name="CTRL_REMAP">Remap Controls</entry>
 <entry name="SCREEN_GAMEPAD_REMAP">Remap Controller</entry>
 <entry name="PS4_SAVE_IMPORT_RESULT_FAILED">{0} out of {1} PS4™ save files were successfully imported.&lt;br&gt;Clear save slots to import PS4™ save files.</entry>
